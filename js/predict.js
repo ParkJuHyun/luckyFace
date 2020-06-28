@@ -33,7 +33,7 @@
 		var image = document.getElementById("face-image");
 		const prediction = await model.predict(image, false);
 		prediction.sort((a, b) => parseFloat(b.probability) - parseFloat(a.probability));
-		alert(prediction[0].className);
+		console.log(prediction[0].className);
 		var resultMessage;
 		var titleMessage;
 		switch (prediction[0].className){
