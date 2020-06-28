@@ -80,6 +80,14 @@ body {
   font-size: 25px;
 }
 
+.link-face {
+  text-align: center; 
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
 .face-analysis-btn {
   width: 50%;
   margin: 0 25%;
