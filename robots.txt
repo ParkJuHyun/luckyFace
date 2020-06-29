@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap:https://lucky-face-tension.netlify.app/sitemap.xml
