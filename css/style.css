@@ -40,8 +40,12 @@ body {
   padding: 20px;
 }
 
+.link-me {
+	text-align: center; 
+}
+
 .file-upload-btn {
-  width: 100%;
+  width: 35%;
   margin: 0;
   color: #fff;
   background: #980000;
@@ -54,6 +58,7 @@ body {
   text-transform: uppercase;
   font-weight: 700;
   font-family: 궁서;
+  font-size: 20px;
 }
 
 .file-upload-btn:hover {
