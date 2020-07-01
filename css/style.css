@@ -7,7 +7,7 @@
 	font-size: 15px;
 	text-align: center;
 	margin: 10px auto;
-	color: #FFFFFF;
+	color: #eeeeee;
 }
 .title1 {
 	font-weight: bold;
@@ -43,6 +43,10 @@ body {
 .link-me {
 	text-align: center; 
 	padding: 15px 15px 30px 15px;
+}
+
+.kakao_ad_area {
+	padding: 5px 5px 15px 5px;
 }
 
 .file-upload-btn {
