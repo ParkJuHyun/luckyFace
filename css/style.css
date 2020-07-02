@@ -45,6 +45,12 @@ body {
 	padding: 15px 15px 30px 15px;
 }
 
+
+.kakao_banner {
+    width: 500px;
+  	margin: 0 auto;
+}
+
 .kakao_ad_area {
 	padding: 5px 5px 15px 5px;
 }
