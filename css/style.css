@@ -90,9 +90,12 @@ body {
 .request-message {
   background-color: #ffffff;
   width: 600px;
+  font-size: 20px;
   margin: 0 auto;
   padding: 20px;
+  font-weight: 700;
   font-family: 궁서;
+  text-align: center; 
 }
 
 .title-message {

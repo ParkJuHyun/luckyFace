@@ -11,7 +11,7 @@
 		if($('#sex').val() == "M"){
 			URL = "https://teachablemachine.withgoogle.com/models/cZNPPPN2K/";
 		} else {
-			URL = "https://teachablemachine.withgoogle.com/models/VAzH0JdRs/";
+			URL = "https://teachablemachine.withgoogle.com/models/fBhL_181R/";
 		}
 		
 		const modelURL = URL + "model.json";
